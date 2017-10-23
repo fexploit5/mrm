@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "****"
-echo "**** Test"
+echo "**** Test - updated file"
 echo "****"
